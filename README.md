@@ -1,0 +1,1 @@
+# djangoskill2024
